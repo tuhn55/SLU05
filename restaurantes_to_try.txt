@@ -1,7 +1,10 @@
 res A
 res B
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> Ubereats
